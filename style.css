@@ -66,3 +66,10 @@ td {
 tbody tr:nth-child(even) {
   background-color: #eef6f9;
 }
+
+/* e) Lehe taust */
+body {
+  background-color: #dff0f5;
+  background-image: linear-gradient(160deg, #dff0f5 0%, #f7efe3 100%);
+  background-attachment: fixed;
+}
