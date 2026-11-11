@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" role="img" aria-label="Tartu illustratsioon">
+  <defs>
+    <linearGradient id="taevas" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8ecae6"/>
+      <stop offset="1" stop-color="#e9f5f9"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="300" fill="url(#taevas)"/>
+  <circle cx="500" cy="70" r="34" fill="#ffd166"/>
+  <rect y="215" width="600" height="85" fill="#219ebc"/>
+  <path d="M0 232 Q75 222 150 232 T300 232 T450 232 T600 232" stroke="#8ecae6" stroke-width="4" fill="none"/>
+  <path d="M0 262 Q75 252 150 262 T300 262 T450 262 T600 262" stroke="#8ecae6" stroke-width="4" fill="none"/>
+  <rect y="190" width="600" height="28" fill="#6a994e"/>
+  <rect x="60" y="120" width="70" height="72" fill="#e07a5f"/>
+  <polygon points="52,120 95,82 138,120" fill="#9c4a3a"/>
+  <rect x="150" y="140" width="60" height="52" fill="#f2cc8f"/>
+  <polygon points="144,140 180,112 216,140" fill="#bc6c25"/>
+  <rect x="270" y="90" width="64" height="102" fill="#f4f1de"/>
+  <polygon points="262,90 302,40 342,90" fill="#3d405b"/>
+  <rect x="294" y="22" width="16" height="20" fill="#3d405b"/>
+  <circle cx="302" cy="110" r="10" fill="#8ecae6" stroke="#3d405b" stroke-width="3"/>
+  <rect x="380" y="130" width="80" height="62" fill="#81b29a"/>
+  <polygon points="372,130 420,98 468,130" fill="#3d405b"/>
+  <rect x="226" y="200" width="150" height="8" fill="#8d6e63"/>
+</svg>
